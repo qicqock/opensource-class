@@ -12,3 +12,4 @@ hello.
  
 
 my name is YoonChanWoong.
+Through this course, i'd like to create new programs with my friends using github.
